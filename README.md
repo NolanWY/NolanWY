@@ -2,8 +2,8 @@
 
 ## 📖 About me
 - 🎓 Computer science undergraduate at Nanjing University.
-- 🧐 Interested in parellel and distributed computing, operating system and computer architecture.
-- 💻 Most used languages: Java / C / C++ / Python
+- 🧐 Interested in parellel and distributed computing, machine learning system and computer architecture.
+- 💻 Most used languages: Java / Python / C / C++
 - 😉 Check out my bilibili channel [@我已经不想再说了](https://space.bilibili.com/30854535/)
 
 ## 🌱 Recent Projects
